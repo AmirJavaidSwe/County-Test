@@ -9,7 +9,10 @@ This document provides a step-by-step guide for implementing a Figma screen usin
 ### 1. Implementing the Figma Screen
 - **Blade File:** Place the Figma screen content in the `dashboard.customers.details` Blade file.
     - Path: `resources/views/dashboard/customers/details.blade.php`
+  
+- **Figma Screen:**
 
+![img.png](img.png)
 ### 2. Managing Styles
 
 #### 2.1. Including Style CDNs
